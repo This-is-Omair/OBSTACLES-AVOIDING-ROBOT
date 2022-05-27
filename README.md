@@ -1,1 +1,6 @@
 # OBSTACLES-AVOIDING-ROBOT
+ABSTRACT:
+Obstacle avoidance is an important aspect of mobile robotics. Without it a robot’s movement in its path would be very restrictive and would lead to some physical damage. This project proposes a mobile robot that directs itself whenever an obstacle comes in its path. To build an obstacle avoidance mobile robot we will use ultrasonic sensors for tracking its movement. An ultrasonic sensor is used to detect any obstacle ahead of it and sends a signal to the micro controller. Then the micro controller redirects the robot to move in an alternate direction by actuating the servo motors which are connected to it through a motor driver.For hardware our robot vehicle works on Arduino Microcontroller and employs an ultrasonic distance sensor and a servo motor to detect obstacles. The Arduino acts as the microcontroller platform and its software part, Arduino Software, was used to carry out the programming. Our simulation using proteus our model employs three ultrasonic distance sensors to detect obstacles with GPS module to display its exact location via latitude and longitude.
+CIRCUIT DIAGRAM:
+![image](https://user-images.githubusercontent.com/104260487/170633883-70765640-303c-4372-82d6-d287291849a0.png)
+![image](https://user-images.githubusercontent.com/104260487/170633916-dfb490db-db2f-4298-9506-dcc510e73e62.png)
